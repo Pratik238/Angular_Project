@@ -104,7 +104,6 @@ D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.x
 D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
 D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
-D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
 D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 D:\ANGLEARN\Angular_Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb

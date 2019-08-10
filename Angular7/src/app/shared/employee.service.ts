@@ -9,7 +9,7 @@ export class EmployeeService {
   formData: Employee;
   list: Employee[];
 
-  readonly rootUrl = "http://localhost:62573/api";
+  readonly rootUrl = "http://angularapi.local.com/api";
 
   constructor(private http: HttpClient) { }
 

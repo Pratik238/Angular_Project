@@ -9,7 +9,7 @@ import { ToastrService } from 'ngx-toastr';
   styleUrls: ['./employee-form.component.css']
 })
 export class EmployeeFormComponent implements OnInit {
-  constructor(private service: EmployeeService, private toastr: ToastrService) { }
+  constructor(public service: EmployeeService, private toastr: ToastrService) { }
   //********************
   ngOnInit() {
     this.resetForm();
